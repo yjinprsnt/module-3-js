@@ -917,3 +917,15 @@
 // const keys = Object.keys(apartment);
 // const values = Object.values(apartment);
 
+// function countTotalSalary(salaries) {
+//   let totalSalary = 0;
+//   // Change code below this line
+//   const keys = Object.keys(salaries);
+
+//   for (const salarie of keys) {
+//     totalSalary += salaries[salarie];
+//   }
+//   // Change code above this line
+//   return totalSalary;
+// }
+
