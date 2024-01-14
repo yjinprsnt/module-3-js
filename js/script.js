@@ -1136,3 +1136,16 @@
 // // Change code below this line
 // const finalSettings = { ...defaultSettings, ...overrideSettings };
 
+// function makeTask(data) {
+//   const defaultCategory = 'General';
+//   const defaultPriority = 'Normal';
+//   const completed = false;
+
+//   return {
+//     category: data.category || defaultCategory,
+//     priority: data.priority || defaultPriority,
+//     text: data.text,
+//     completed: completed,
+//   };
+// }
+
