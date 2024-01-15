@@ -1182,3 +1182,21 @@
 // addOverNum(15, 32, 6, 13, 19, 8);
 // addOverNum(20, 74, 11, 62, 46, 12, 36);
 
+// // Change code below this line
+// function findMatches([...args], ...numbers) {
+//   const matches = []; // Don't change this line
+//   for (const arg of args) {
+//     // console.log(arg);
+//     for (const number of numbers) {
+//       // console.log(number);
+//       if (number === arg) {
+//         matches.push(number);
+//       }
+//     }
+//   }
+
+//   // Change code above this line
+//   return matches;
+// }
+// findMatches([1, 2, 3, 4, 5], 1, 8, 2, 7);
+// findMatches([4, 89, 17, 36, 2], 8, 17, 89, 27, 2);
