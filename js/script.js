@@ -1264,3 +1264,15 @@
 //   },
 // };
 
+// const atTheOldToad = {
+//   potions: ['Speed potion', 'Dragon breath', 'Stone skin'],
+//   updatePotionName(oldName, newName) {
+//     // Change code below this line
+//     const potionIdx = this.potions.indexOf(oldName);
+//     if (oldName !== this.potions[-1]) {
+//       this.potions.splice(potionIdx, 1, newName);
+//     }
+//     // Change code above this line
+//   },
+// };
+
