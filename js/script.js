@@ -1219,3 +1219,13 @@
 //   // Change code above this line
 // };
 
+// const bookShelf = {
+//   books: ['The last kingdom', 'Haze', 'The guardian of dreams'],
+//   updateBook(oldName, newName) {
+//     const bookIdx = this.books.indexOf(oldName);
+//     if (bookIdx !== this.books[-1]) {
+//       this.books.splice(bookIdx, 1, newName);
+//     }
+//   },
+// };
+
