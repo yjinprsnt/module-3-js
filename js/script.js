@@ -1200,3 +1200,22 @@
 // }
 // findMatches([1, 2, 3, 4, 5], 1, 8, 2, 7);
 // findMatches([4, 89, 17, 36, 2], 8, 17, 89, 27, 2);
+
+// const bookShelf = {
+//   // Change code below this line
+//   books: ['The last kingdom', 'The guardian of dreams'],
+//   getBooks() {
+//     return 'Returning all books';
+//   },
+//   addBook(bookName) {
+//     return `Adding book ${bookName}`;
+//   },
+//   removeBook(bookName) {
+//     return `Deleting book ${bookName}`;
+//   },
+//   updateBook(oldName, newName) {
+//     return `Updating book ${oldName} to ${newName}`;
+//   },
+//   // Change code above this line
+// };
+
